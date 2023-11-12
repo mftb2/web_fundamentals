@@ -211,7 +211,7 @@ main section {
 /* Logo and Icon Widths */
 .logo,
 .icon {
-    width: 80px;
+    width: 100px;
 }
 
 .icon {
@@ -223,6 +223,10 @@ main section {
     width: 100%;
 }
 
+
+#riverimg {
+    width: 20%;
+}
 
 
 
